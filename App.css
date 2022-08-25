@@ -74,12 +74,12 @@ nav{
     margin-right: 10%;
 } 
 
-a:link {
-    color: #66FCF1;
+a:link#parLink  {
+    color: #66FCF1
 }
-a:hover{
-    color: #C5C6C7;
-}
-a:visited {
+a:visited#parLink  {
     color:#45A29E;
+}
+a:hover#parLink {
+    color: #C5C6C7;
 }
