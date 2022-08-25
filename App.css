@@ -59,7 +59,8 @@ nav{
 #left, #right { 
     width: 40%; 
     margin:5px; 
-    padding: 1em; 
+    padding: 2em; 
+    padding-bottom: 3em;
     background: #212121; 
     border-radius: 30%;
   } 
